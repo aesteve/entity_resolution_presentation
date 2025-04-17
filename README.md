@@ -1,4 +1,4 @@
-# Entity Resolution; Demystified
+# Entity Resolution: Demystified
 
 Slides decks for the "Entity Resolution: Demystified" presentation.
 
